@@ -2,7 +2,6 @@
 
 **Disciplina:** Inteligência Artificial  
 **Integrantes (Dupla):** Pablo de Sousa Santos • Gabriel Messias da Silva  
-**Documento para Entrega:** [`relatorio_analise.docx`](relatorio_analise.docx) (ou [`relatorio_analise.md`](relatorio_analise.md))  
 
 ---
 
